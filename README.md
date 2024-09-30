@@ -1,6 +1,6 @@
 
 
-# Retrieval-Augmented Generation (RAG) System
+# Retrieval-Augmented Generation (RAG) System (DataDynamo)
 
 This repository provides a step-by-step guide to creating your own Retrieval-Augmented Generation (RAG) system. The system allows users to upload a PDF document, convert its content into a format usable by a language model, and generate context-aware responses using the extracted data.
 
